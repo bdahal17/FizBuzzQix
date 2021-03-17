@@ -17,7 +17,6 @@ public class FizzBuzzQix {
         }
         return output;
     }
-
     public boolean isFizzNumber(int numberToInterpret) {
         return numberToInterpret % 3 == 0;
     }
